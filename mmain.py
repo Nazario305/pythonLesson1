@@ -1,1 +1,2 @@
-print 'test new user' 
+print('test new user')
+print('Hi new user')
